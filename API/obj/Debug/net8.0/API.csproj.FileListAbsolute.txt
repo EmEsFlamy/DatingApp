@@ -130,3 +130,5 @@ C:\Users\Rogal\Desktop\kurs\projekt\DatingApp\API\bin\Debug\net8.0\System.Identi
 C:\Users\Rogal\Desktop\kurs\projekt\DatingApp\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Rogal\Desktop\kurs\projekt\DatingApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Rogal\Desktop\kurs\projekt\DatingApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rogal\Desktop\kurs\projekt\DatingApp\API\bin\Debug\net8.0\Data\UserSeedData.json
+C:\Users\Rogal\Desktop\kurs\projekt\DatingApp\API\bin\Debug\net8.0\AutoMapper.dll
